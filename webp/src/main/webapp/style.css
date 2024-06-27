@@ -1,0 +1,344 @@
+@charset "UTF-8";
+
+head{
+	height:0px;
+}
+
+body{
+	background:url("background.jpg");
+	background-size:cover;
+}
+
+.login_h1{
+	width:350px;
+	height:150px;
+	position:absolute;
+	font-size:100px;
+	left:50%;
+	top:0px;
+	text-align:center;
+	background-color: rgba(255,255,255,0.9);
+	margin-left:-175px;
+}
+
+.qmp{
+	position:absolute;
+	width:350px;
+	height:150px;
+	left:50%;
+	top:217px;
+	background-color:rgba(255,255,255,0.9);
+	margin-left:-175px;
+}
+
+.gomain{
+	position:absolute;
+	width:100px;
+	height:50px;
+	left:50%;
+	top:50%;
+	margin-left:-50px;
+	margin-top:-25px;
+	font-size:30px;
+	background-color:rgba(0,0,0,0.4);
+	border:none;
+}
+
+.login{
+	position:absolute;
+	width:350px;
+	height:350px;
+	left:50%;
+	top:217px;
+	margin-left:-175px;
+	background-color: rgba(255,255,255,0.9);
+}
+
+.login_id{
+	position:absolute;
+	width:200px;
+	height:30px;
+	font-size:30px;
+	top:50%;
+	left:100px;
+	margin-top:-40px;
+}
+
+.login_id_txt{
+	position:absolute;
+	width:120px;
+	height:30px;
+	font-size:30px;
+	top:50%;
+	left:100px;
+	margin-top:-40px;
+	margin-left:-120px;
+	text-align:right;
+}
+
+.login_pwd{
+	position:absolute;
+	width:200px;
+	height:30px;
+	font-size:30px;
+	left:100px;
+	top:50%;
+}
+
+.login_pwd_txt{
+	position:absolute;
+	width:120px;
+	height:30px;
+	font-size:30px;
+	left:100px;
+	margin-left:-120px;
+	text-align:right;
+	top:50%;
+	margin-top:-5px;
+	
+}
+
+.login_submit{
+	position:absolute;
+	width:100px;
+	height:50px;
+	top:61%;
+	left:200px;
+	margin-left:-100px;
+	font-size:30px;
+}
+
+.login_submit_2{
+	position:absolute;
+	width:200px;
+	height:50px;
+	top:61%;
+	left:200px;
+	margin-left:-100px;
+	font-size:30px;
+}
+
+.account{
+	position:absolute;
+	width:100px;
+	height:50px;
+	top:61%;
+	left:205px;
+	font-size:30px;
+}
+
+.goquiz{
+	position:absolute;
+	width:350px;
+	height:80px;
+	top:50%;
+	font-size:80px;
+	text-align:center;
+	margin-top:-80px;
+}
+
+.goquizmake{
+	position:absolute;
+	width:350px;
+	height:80px;
+	top:50%;
+	font-size:80px;
+	text-align:center;
+}
+
+.goquizbyme{
+	position:absolute;
+	width:350px;
+	height:80px;
+	top:50%;
+	font-size:80px;
+	text-align:center;
+	margin-top:80px;
+}
+
+.logout{
+	position:absolute;
+	font-size:30px;
+	top:0%;
+	right:1%;
+}
+
+.list_h1{
+	width:1000px;
+	height:150px;
+	position:absolute;
+	font-size:100px;
+	left:50%;
+	top:0px;
+	text-align:center;
+	background-color: rgba(255,255,255,0.9);
+	margin-left:-500px;
+}
+
+.list{
+	position:absolute;
+	width:1000px;
+	height:1000px;
+	left:50%;
+	top:217px;
+	margin-left:-500px;
+	background-color: rgba(255,255,255,0.9);
+	
+}
+
+.table_num{
+	background-color:rgba(0,0,0,0.2);
+	width:50px;
+	height:50px;
+	text-align:center;
+}
+
+.table_name{
+	background-color:rgba(0,0,0,0.2);
+}
+
+.table_maker{
+	background-color:rgba(0,0,0,0.2);
+	text-align:center;
+	width:120px;
+}
+
+.table_number{
+	background-color:rgba(0,0,0,0.2);
+	width:80px;
+	height:50px;
+	text-align:center;
+}
+
+.table_rate{
+	background-color:rgba(0,0,0,0.2);
+	width:80px;
+	height:50px;
+	text-align:center;
+}
+
+.table_check{
+	background-color:rgba(0,0,0,0.2);
+	width:50px;
+	height:50px;
+	text-align:center;
+}
+
+.maketable{
+	background-color:rgba(0,0,0,0.2);
+}
+
+.q_name{
+	background-color:rgba(0,0,0,0.2);
+	width:50px;
+	height:50px;
+	text-align:center;
+}
+
+.q_name_insert{
+	background-color:rgba(0,0,0,0.2);
+	height:50px;
+	text-align:center;
+}
+
+th,td{
+	font-size:30px;
+	background-color:rgba(0,0,0,0.2);
+	text-align:center;
+}
+
+table{
+	position:absolute;
+	width:900px;
+	left:50%;
+	margin-left:-450px;
+}
+
+.quiz_c{
+	background-color:rgba(0,0,0,0.4);
+	width:450px;
+	height:50px;
+	text-align:center;
+}
+
+.quiz_q{
+	background-color:rgba(0,0,0,0.2);
+	width:450px;
+	height:50px;
+	text-align:center;
+}
+
+.quiz_wq{
+	background-color:rgba(0,0,0,0.2);
+	width:450px;
+	height:50px;
+	text-align:center;
+	color:red;
+}
+
+.quiz_a{
+	width:100%;
+	height:100%;
+	border:none;
+	background:transparent;
+	font-size:30px;
+}
+
+.quiz_how{
+	width:450px;
+	height:50px;
+	font-size:30px;
+	background-color:rgba(0,0,0,0.4);
+	text-align:center;
+}
+
+.quiz_answer{
+	position:absolute;
+	width:100px;
+	height:50px;
+	left:50%;
+	margin-left:-50px;
+	font-size:30px;
+	background-color:rgba(0,0,0,0.4);
+	border:none;
+}
+
+.quiz_answers{
+	font-size:30px;
+	background-color:rgba(0,0,0,0.4);
+	border:none;
+	width:450px;
+	height:50px;
+}
+
+.bar{
+	width:100%;
+	height:100%;
+}
+
+.del{
+	background-color:rgba(0,0,0,0.4);
+	border:none;
+	width:50px;
+	height:50px;
+	font-size:30px;
+}
+
+.back{
+	position:absolute;
+	font-size:30px;
+}
+
+.tableeq{
+	width:100%;
+	height:100%;
+	font-size:30px;
+	border:none;
+	background-color:rgba(0,0,0,0.4);
+}
+
+*{  
+	font-family: "Dongle", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
